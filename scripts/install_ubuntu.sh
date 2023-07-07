@@ -119,7 +119,7 @@ sudo php /var/www/glpi/bin/console db:install \
 	--db-port=3306 \
 	--db-name=glpi \
 	--db-user=glpi \
-	--db-password=P4ssw0rd
+	--db-password=P4ssw0rd -n -vvv
 
 
 
