@@ -162,7 +162,9 @@ EOF
 # 4.3.2. Remover permanentemente
 # 4.3.4. Configurar a url de acesso ao sistema em: Configurar -> Geral -> Configuração Geral -> URL da aplicação.
 
-
-
+####################################################################
+# 5. Finalizado!
+####################################################################
+echo "FINALIZADO! DESFRUTE DE SUA INSTALAÇÃO DE GLPI"
 	
 
